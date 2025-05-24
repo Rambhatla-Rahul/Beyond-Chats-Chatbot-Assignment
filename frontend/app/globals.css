@@ -26,6 +26,12 @@ body {
 }
 
 .finn-message-container{
-  background: linear-gradient(to bottom right, #a697ed, #e68f8f);
+  background: linear-gradient(to bottom right, #c7bfed 0%, #eae6fc 50%,#edc4c4 90%);
+  font-weight: 500;
+}
+
+
+.right-footer {
+  background: linear-gradient(to top right, #b2abd9 0%, #ffffff 50%);
   font-weight: 400;
 }
